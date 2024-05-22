@@ -1,7 +1,8 @@
-## Hi there 👋
+Hi there 👋 I'm Arnav, a first year Computer Science student at the University of Waterloo!
 
-<!--
-**ArnavShukla1/ArnavShukla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not busy with school work, you can likely catch me reading ML papers. Feel free to reach out with any inquiries!
+
+If you need to reach me, feel free to email: asharnlive@gmail.com..
 
 Here are some ideas to get you started:
 
