@@ -4,7 +4,7 @@ I'm Arnav, a first year Computer Science student at the University of Waterloo!
 
 When I'm not busy with school work, you can likely catch me reading ML papers. Feel free to reach out with any inquiries!
 
-If you need to reach me, feel free to email: [arnav.shukla@uwaterloo.ca](mailto:arnav.shukla@uwaterloo.ca).
+If you need to reach me, feel free to email: [arnav.shukla@uwaterloo.ca](mailto:arnav.shukla@uwaterloo.ca)
 
 <!--
 **
