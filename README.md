@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Arnav, a second year Computer Science student at the University of Waterloo!
+I'm Arnav, a third year Computer Science student at the University of Waterloo!
 
 When I'm not busy with school work, you can likely catch me reading Distributed Systems and AI Agents. Feel free to reach out with any inquiries!
 
